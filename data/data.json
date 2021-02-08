@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "title": "DATA CTRL",
+      "title_full": "DATA CTRL",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "https://www.youtube.com/watch?v=MjdKlHbD0xo",
+      "author": "Sohee Cho",
+      "image": "sohee_project.png"
+    }
+  ],
+  "students": [
+    {
+      "name": "Sohee Cho",
+      "url": "https://github.com/ssoheecho"
+    }
+  ]
+}

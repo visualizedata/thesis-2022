@@ -1,0 +1,90 @@
+@import url('./src/fonts.css');
+@import url('./src/tachyons.css');
+
+/* override red color */
+html {
+  --red: #e42a1d;
+  --design-black: #483e3e;
+}
+
+.red {
+  color: var(--red);
+}
+.bg-red {
+  background-color: var(--red);
+}
+.hover-red:hover,
+.hover-red:focus {
+  color: var(--red);
+}
+.hover-bg-red:hover {
+  background-color: var(--red);
+}
+.b--red {
+  border-color: var(--red);
+}
+
+.design-black {
+  color: var(--design-black);
+}
+.bg-design-black {
+  background-color: var(--design-black);
+}
+.hover-design-black:hover,
+.hover-design-black:focus {
+  color: var(--design-black);
+}
+.b--design-black {
+  border-color: var(--design-black);
+}
+
+.color-fb {
+  color: #4267b2;
+}
+.color-twitter {
+  color: #0098f4;
+}
+.color-linkedin {
+  color: #0067b1;
+}
+.color-weibo {
+  color: #e31c2b;
+}
+
+/* override shadow 1 */
+.shadow-1 {
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.1) !important;
+}
+.shadow-2 {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+html {
+  font-size: 95%;
+}
+body {
+  font-family: 'neue-regular';
+  background-color: #e5e5e5;
+}
+
+#logo {
+  /* width:100px;
+  height:100px; */
+  background: url('../img/tns_logo.png');
+  background-size: cover;
+}
+
+ul.list.padding li {
+  padding-bottom: 0.6rem;
+}
+
+ul.toggle li a.active {
+  background-color: var(--red);
+  border-color: var(--red);
+  color: #fff;
+}
+ul.toggle li a {
+  background-color: #fff;
+  border-color: #fff;
+  color: #999;
+}
