@@ -11,56 +11,16 @@
   ],
   "students": [
     {
-      "name": "Lee Kuczewski",
-      "url": "https://github.com/leeallennyc/thesis"
-    },
-    {
-      "name": "Ripley Cleghorn",
-      "url": "https://github.com/ripleycleghorn/thesis"
-    },
-    {
-      "name": "Sherry Manzar",
-      "url": "https://github.com/shmanzar/thesis"
+      "name": "Dallas Alberti",
+      "url": "https://github.com/Dalbed349/Thesis"
     },
     {
       "name": "Amina Brown",
       "url": "https://github.com/amina-brown/thesis "
     },
     {
-      "name": "Justin Kraus",
-      "url": "https://github.com/justinkraus/thesis"
-    },
-    {
-      "name": "David Malary",
-      "url": ""
-    },
-    {
-      "name": "Isabel Stoddart",
-      "url": "https://github.com/isabelstoddart/msdv-thesis"
-    },
-    {
-      "name": "Inhye Lee",
-      "url": "https://github.com/InhyeLee-Data/thesis-2021"
-    },
-    {
-      "name": "Luella Lu",
-      "url": ""
-    },
-    {
-      "name": "Zhibang Jiang",
-      "url": "https://github.com/gitacoco/thesis-project"
-    },
-    {
-      "name": "Dallas Alberti",
-      "url": "https://github.com/Dalbed349/Thesis"
-    },
-    {
-      "name": "James Troxel",
-      "url": "https://github.com/jamestroxel/thesis"
-    },
-    {
-      "name": "Douglas Locke",
-      "url": ""
+      "name": "Ripley Cleghorn",
+      "url": "https://github.com/ripleycleghorn/thesis"
     },
     {
       "name": "Tiffany France",
@@ -71,8 +31,48 @@
       "url": ""
     },
     {
-      "name": "Soonk Paik",
+      "name": "Zhibang Jiang",
+      "url": "https://github.com/gitacoco/thesis-project"
+    },
+    {
+      "name": "Justin Kraus",
+      "url": "https://github.com/justinkraus/thesis"
+    },
+    {
+      "name": "Lee Kuczewski",
+      "url": "https://github.com/leeallennyc/thesis"
+    },
+    {
+      "name": "Inhye Lee",
+      "url": "https://github.com/InhyeLee-Data/thesis-2021"
+    },
+    {
+      "name": "Douglas Locke",
       "url": ""
+    },
+    {
+      "name": "Luella Lu",
+      "url": ""
+    },
+    {
+      "name": "David Malary",
+      "url": ""
+    },
+    {
+      "name": "Sherry Manzar",
+      "url": "https://github.com/shmanzar/thesis"
+    },
+    {
+      "name": "Soonk Paik",
+      "url": "http://www.soonkpaik.com"
+    },
+    {
+      "name": "Isabel Stoddart",
+      "url": "https://github.com/isabelstoddart/msdv-thesis"
+    },
+    {
+      "name": "James Troxel",
+      "url": "https://github.com/jamestroxel/thesis"
     }
   ]
 }
