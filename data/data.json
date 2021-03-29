@@ -1,12 +1,132 @@
 {
   "projects": [
     {
-      "title": "DATA CTRL",
-      "title_full": "DATA CTRL",
+      "title": "project title",
+      "title_full": "project full title",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
-      "url": "https://www.youtube.com/watch?v=MjdKlHbD0xo",
-      "author": "Sohee Cho",
-      "image": "sohee_project.png"
+      "url": "project url",
+      "author": "Dallas Alberti",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Amina Brown",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Ripley Cleghorn",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Tiffany France",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Yujun Jiang",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Zhibang Jiang",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Justin Kraus",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Lee Kuczewski",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Inhye Lee",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Douglas Locke",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Luella Lu",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "David Malary",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Shaheryar (Sherry) Manzar",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Soonk Paik",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "Isabel Stoddart",
+      "image": "placeholder.png"
+    },
+    {
+      "title": "project title",
+      "title_full": "project full title",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "url": "project url",
+      "author": "James Troxel",
+      "image": "placeholder.png"
     }
   ],
   "students": [
@@ -16,7 +136,7 @@
     },
     {
       "name": "Amina Brown",
-      "url": "https://github.com/amina-brown/thesis "
+      "url": "https://github.com/amina-brown/thesis"
     },
     {
       "name": "Ripley Cleghorn",
@@ -24,11 +144,11 @@
     },
     {
       "name": "Tiffany France",
-      "url": ""
+      "url": "http://tiffanyfrance.com/"
     },
     {
       "name": "Yujun Jiang",
-      "url": ""
+      "url": "https://github.com/yujunmjiang/gaming-industry-tracker"
     },
     {
       "name": "Zhibang Jiang",
@@ -48,7 +168,7 @@
     },
     {
       "name": "Douglas Locke",
-      "url": ""
+      "url": "https://github.com/douglocke/mfc"
     },
     {
       "name": "Luella Lu",
@@ -68,7 +188,7 @@
     },
     {
       "name": "Isabel Stoddart",
-      "url": "https://github.com/isabelstoddart/msdv-thesis"
+      "url": "https://www.isabelstoddart.com/"
     },
     {
       "name": "James Troxel",
