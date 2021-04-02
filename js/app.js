@@ -13,7 +13,7 @@
 var app = new Vue({
   el: '#app',
   data: {
-    site_url: 'https://parsons.nyc/met-museum-2019',
+    site_url: 'https://parsons.nyc/thesis-2021',
     department: 'MS Data Visualization',
     page_title: 'Thesis 2021',
     projects: [],

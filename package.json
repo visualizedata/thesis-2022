@@ -1,21 +1,21 @@
 {
-  "name": "met-museum-2019",
+  "name": "thesis-2021",
   "version": "1.0.0",
-  "description": "portfolio page",
+  "description": "Parsons Data Visualization (MS) Thesis Archive",
   "main": "index.js",
   "scripts": {
     "dev": "browser-sync"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/visualizedata/met-museum-2019.git"
+    "url": "git+https://github.com/visualizedata/thesis-2021.git"
   },
-  "author": "Zach Krall",
+  "author": "Daniel Sauter",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/visualizedata/met-museum-2019/issues"
+    "url": "https://github.com/visualizedata/thesis-2021/issues"
   },
-  "homepage": "https://github.com/visualizedata/met-museum-2019#readme",
+  "homepage": "https://github.com/visualizedata/thesis-2021#readme",
   "dependencies": {
   },
   "devDependencies": {
