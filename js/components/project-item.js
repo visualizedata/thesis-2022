@@ -19,7 +19,7 @@ Vue.component('project-item', {
 
   <div class="w-100">
     <img
-      :src='"./data/images/" + image'
+      :src="image"
       class="w-100 pointer"
       v-on:click="window.open(url)"
     />
