@@ -140,7 +140,7 @@
     },
     {
       "name": "Ripley Cleghorn",
-      "url": "https://github.com/ripleycleghorn/thesis"
+      "url": "https://ripleycleghorn.github.io/portfolio/"
     },
     {
       "name": "Tiffany France",
@@ -148,7 +148,7 @@
     },
     {
       "name": "Yujun Jiang",
-      "url": "https://github.com/yujunmjiang/gaming-industry-tracker"
+      "url": "https://yujunjiang.com"
     },
     {
       "name": "Zhibang Jiang",
@@ -192,6 +192,72 @@
     },
     {
       "name": "James Troxel",
+      "url": "https://github.com/jamestroxel/thesis"
+    }
+  ],
+  "repository": [
+    {
+      "student": "Dallas Alberti",
+      "url": "https://github.com/Dalbed349/Thesis"
+    },
+    {
+      "student": "Amina Brown",
+      "url": "https://github.com/amina-brown/thesis"
+    },
+    {
+      "student": "Ripley Cleghorn",
+      "url": "https://github.com/ripleycleghorn/thesis"
+    },
+    {
+      "student": "Tiffany France",
+      "url": "https://github.com/tiffanyfrance/thesis"
+    },
+    {
+      "student": "Yujun Jiang",
+      "url": "https://github.com/yujunmjiang/gaming-industry-tracker"
+    },
+    {
+      "student": "Zhibang Jiang",
+      "url": "https://github.com/gitacoco/thesis-project"
+    },
+    {
+      "student": "Justin Kraus",
+      "url": "https://github.com/justinkraus/thesis"
+    },
+    {
+      "student": "Lee Kuczewski",
+      "url": "https://github.com/leeallennyc/thesis"
+    },
+    {
+      "student": "Inhye Lee",
+      "url": "https://github.com/InhyeLee-Data/thesis-2021"
+    },
+    {
+      "student": "Douglas Locke",
+      "url": "https://github.com/douglocke/mfc"
+    },
+    {
+      "student": "Luella Lu",
+      "url": "https://github.com/tongtongluu/bubbleTea-DataVis-Thesis"
+    },
+    {
+      "student": "David Malary",
+      "url": ""
+    },
+    {
+      "student": "Shaheryar (Sherry) Manzar",
+      "url": "https://github.com/shmanzar/thesis"
+    },
+    {
+      "student": "Soonk Paik",
+      "url": "https://github.com/jotnajoa/wordup"
+    },
+    {
+      "student": "Isabel Stoddart",
+      "url": "https://github.com/isabelstoddart/msdv-thesis"
+    },
+    {
+      "student": "James Troxel",
       "url": "https://github.com/jamestroxel/thesis"
     }
   ]
