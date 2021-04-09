@@ -261,7 +261,8 @@
             <div>
               <project-item
                 v-for="({
-                  title_full: title,
+                  title,
+                  subtitle,
                   description,
                   url,
                   author,
@@ -269,6 +270,7 @@
                 }) in projects"
 
                 :title="title"
+                :subtitle="subtitle"
                 :description="description"
                 :url="url"
                 :author="author"

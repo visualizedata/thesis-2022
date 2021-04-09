@@ -1,13 +1,22 @@
 Vue.component('project-item', {
-  data: function() {
+  data: function () {
     return {}
   },
 
-  props: ['title', 'description', 'url', 'author', 'image', 'author_url'],
+  props: [
+    'title',
+    'subtitle',
+    'description',
+    'url',
+    'author',
+    'image',
+    'author_url'
+  ],
 
   methods: {},
 
   template: `<div class="bg-white db mb4 shadow-2">
+
   <div class="w-100">
     <img
       :src='"./data/images/" + image'
