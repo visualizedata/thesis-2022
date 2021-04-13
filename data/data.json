@@ -1,13 +1,13 @@
 {
   "projects": [
     {
-      "title": "project title",
-      "subtitle": "subtitle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "title": "20 Years of Water",
+      "subtitle": "Visualizing water quality testing in the River Basins of Alabama",
+      "description": "Alabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States. At the same time, a history of industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines. Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
       "url": "project url",
       "author": "Dallas Alberti",
-      "image": "data/images/placeholder.png",
-      "repository": "https://github.com/Dalbed349/Thesis"
+      "image": "https://github.com/Dalbed349/AlabamaWater/raw/main/preview.png",
+      "repository": "https://github.com/Dalbed349/AlabamaWater"
     },
     {
       "title": "Nature + Nuture/Fostering Bewilderment",
@@ -28,18 +28,18 @@
       "repository": "https://github.com/ripleycleghorn/thesis"
     },
     {
-      "title": "project title",
-      "subtitle": "subtitle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "title": "Generating Book Cover Art Using Emotion Detected Labels in Classical Literature",
+      "subtitle": "Deriving patterns from the emotional landcape of literary texts between 1800-1920",
+      "description": "Natural Language Processing (NLP) is an area of computer science associated with using machines to collect, analyze, and categorize the human language. Emotion Detection (also known as Emotion Recognition) is an NLP task which uses data in the form of speeches, images, videos, or text, and matches the input with a classification label. Classification labels are pre-trained using a variety of methods, from keyword matching to deep learning neural networks. \nEmotion labeling models are commonly based on the organization systems of several psychoanalysts, including Robert Plutchik and Paul Ekman. These models group and characterize emotions into hierarchies, usually identifying six to eight core emotions, e.g. happy, sad, bored, disgusted, angry, surprised, etc. Data scientists and researchers in the NLP field use these lists to train and test datasets. \nThis project assesses if emotionally representative book covers can be accurately and distinctly created using a generative process with the text of the book as the data. Both proprietary and hand crafted APIs are used to analyze emotions found in the corpuses of the 25 high ranking books from Project Gutenberg. In order to avoid copyright issues, all books used are in the public domain, with original publish dates between 1800 and 1925. Multiple emotion recognition models are evaluated for accuracy and value within the literary space. The machine learning models are then compared to human evaluations of emotions. Results indicate that machine learning models are able to adequately predict the emotions in novels and generate supporting book cover art. \nThe final outcome of this project will be printable manuscripts with custom generated covers using analyzed model results. Once the visualizations are built, using D3js, the designs will be imported into InDesign for final production and typesetting. The physical book will contain the text of the original author, as well as accompanying text and diagrams provided from this project.",
       "url": "project url",
       "author": "Tiffany France",
-      "image": "data/images/placeholder.png",
+      "image": "https://github.com/tiffanyfrance/thesis/raw/main/preview.png",
       "repository": "https://github.com/tiffanyfrance/thesis"
     },
     {
-      "title": "project title",
-      "subtitle": "subtitle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "title": "A Different Game",
+      "subtitle": "How COVID-19 has changed the video game industry",
+      "description": "The video game industry has undergone a series of changes as a result of the Covid-19 pandemic. Stress on the supply chains of hardware and software have forced companies to adjust to new working environments within short periods of time. At the same time, people have turned more and more towards games as a form of leisure, entertainment, and human connection. We analyze several economic and human studies data sets collected during the past 2 years in order to visualize the supply, demand, and popularity of games during the pandemic. Our results suggest that despite turbulence in the supply chain, game companies have managed to adequately shift their business models to allow for tremendous growth as other industries have struggled. /nIn this project, the visualizations present how regular production process, total consumer spending, user behavior and gaming community network were impacted by the Covid-19 pandemic. As we expected, the video game industry has demonstrated with data that it is unshakable in people's minds and will go farther in the future.",
       "url": "project url",
       "author": "Yujun Jiang",
       "image": "data/images/placeholder.png",
@@ -127,22 +127,22 @@
       "repository": "https://github.com/jotnajoa/wordup"
     },
     {
-      "title": "project title",
-      "subtitle": "subtitle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "title": "Lost to History",
+      "subtitle": "The Matilda Effect and the repercussions of lost women in history",
+      "description": "Many of the women that have contributed to the scientific field have been lost to history either from their male colleagues taking credit for their work or people deeming their work not important. Women such as Rosalind Franklin, Lisa Meitner, Emilie du Châtelet and many more were lost to history, their contributions to science and technology overlooked. These women were affected by the phenomenon called The Matilda Effect. The Matilda Effect is a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues. This thesis will explore and visualize the connection between The Matilda Effect and women in science today by answering questions such as who the women effected by The Matilda Effect are, what the lasting effects on the world today are, and how female role models can increase the number of girls entering into STEM fields.",
       "url": "project url",
       "author": "Isabel Stoddart",
       "image": "data/images/placeholder.png",
       "repository": "https://github.com/isabelstoddart/msdv-thesis"
     },
     {
-      "title": "project title",
-      "subtitle": "subtitle",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sollicitudin sit amet nisi eu sollicitudin. Maecenas pharetra blandit augue, id consequat tellus.",
+      "title": "Karpov | Korchnoi",
+      "subtitle": "Visualizing Chess, Patterns and Paranoia",
+      "description": "This project analyzes two remarkabley different chess matches played between Anatoly Karpov and Viktor Korchnoi: the game two classic from the 1974 Candidates Final in Moscow, and the entire, bizarre 1978 World Chess Championship in the Philippines. The research qualifies and quantifies the relationship between chess, pattern recognition, and the pitfalls therein with supporting documentation from other historical accounts and written works on chess theory, statistics, and cognitive psychology. Additionally, we will see that a grandmaster's heightened sensitivity to pattern recognition, time and ulterior motives carry broad implications for the way we extract meaning from information in our own high-pressure environment today. The visualizations that accompany the game analysis are designed to help readers see chess in the same way that a grandmaster does, and in so doing, help them to identify similarities between a grandmaster’s state of mind and their own. Are we under the same kind of pressure as a chess genius? Is this reasonable? What ways do chess prodigies respond to this pressure and what are the possible outcomes?",
       "url": "project url",
       "author": "James Troxel",
-      "image": "data/images/placeholder.png",
-      "repository": "https://github.com/jamestroxel/thesis"
+      "image": "https://github.com/jamestroxel/Karpov-Korchnoi/raw/main/preview.png",
+      "repository": "https://github.com/jamestroxel/Karpov-Korchnoi"
     }
   ],
   "students": [
