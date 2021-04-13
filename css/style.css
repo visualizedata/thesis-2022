@@ -5,6 +5,7 @@
 html {
   --red: #e42a1d;
   --design-black: #483e3e;
+  white-space: pre-line;
 }
 
 .red {
