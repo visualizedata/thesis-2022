@@ -267,7 +267,8 @@
                   description,
                   url,
                   author,
-                  image
+                  image,
+                  repository
                 }) in projects"
 
                 :title="title"
@@ -277,6 +278,7 @@
                 :author="author"
                 :image="image"
                 :author_url="getLink(url)"
+                :repository="repository"
               ></project-item>
             </div>
 

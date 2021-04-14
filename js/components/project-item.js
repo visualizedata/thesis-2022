@@ -10,7 +10,8 @@ Vue.component('project-item', {
     'url',
     'author',
     'image',
-    'author_url'
+    'author_url',
+    'repository'
   ],
 
   methods: {},
@@ -47,7 +48,7 @@ Vue.component('project-item', {
     <p class="f5 design-black measure">{{ description }}</p>
     
     <button><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
-    <img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
+    <a :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
   </div>
 </div>`
 })
