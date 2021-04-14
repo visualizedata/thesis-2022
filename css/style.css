@@ -89,3 +89,14 @@ ul.toggle li a {
   border-color: #fff;
   color: #999;
 }
+
+button {
+  border: none !important;
+  background-color: white !important;
+}
+
+button:hover,
+.glyphicon:hover {
+  color: #e82e21 !important;
+  transition: all 0.3s ease-in-out;
+}

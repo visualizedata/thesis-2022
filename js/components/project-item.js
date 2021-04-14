@@ -33,6 +33,7 @@ Vue.component('project-item', {
           class="dib dim design-black mb2 f5 link"
           >{{ author }}</a>
         <h1 class="f4 mt0 mb0">{{ title }}</h1>
+        <p class="f4 design-black mt3 mb0">{{ subtitle }}</h1>
       </div>
 
       <div class="flex-shrink-0">
@@ -44,6 +45,9 @@ Vue.component('project-item', {
     </div>
 
     <p class="f5 design-black measure">{{ description }}</p>
+    
+    <button><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
+    <img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
   </div>
 </div>`
 })
