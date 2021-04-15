@@ -45,7 +45,7 @@ Vue.component('project-item', {
       </div>
     </div>
 
-    <p class="f5 design-black measure">{{ description }}</p>
+    <p class="f5 design-black measure">{{ description | truncate(265, '...') }}</p>
     
     <button><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
     <a :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
