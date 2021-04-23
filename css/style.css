@@ -117,3 +117,8 @@ a:hover {
   text-decoration: none !important;
   transition: all 0.3s ease-in-out;
 }
+
+#videoPlayer {
+  width: 0;
+  height: 0;
+}

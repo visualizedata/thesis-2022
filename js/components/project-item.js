@@ -11,10 +11,37 @@ Vue.component('project-item', {
     'author',
     'image',
     'author_url',
-    'repository'
+    'repository',
+    'video'
   ],
 
-  methods: {},
+  methods: {
+    playVideo: function (url) {
+      console.log(url)
+      var localDownloadPath = 'web/assets'
+      var player = document.getElementById('videoPlayer')
+      var videoSource = document.getElementById('videoSource')
+      var localSource = document.getElementById('localSource')
+
+      player.pause()
+
+      videoSource.src = url
+
+      var file = url.replace(/^.*[\\\/]/, '')
+      console.log('video url', file)
+      var person = $('div').find(`[video-src='${url}']`).prev().attr('id')
+      console.log('person', person)
+
+      localSource.src = localDownloadPath + '/' + person + '/' + '/' + file
+
+      player.load()
+      player.play()
+
+      if (player.requestFullscreen) {
+        player.requestFullscreen()
+      }
+    }
+  },
 
   template: `<div class="bg-white db mb4 shadow-2">
 
@@ -45,9 +72,9 @@ Vue.component('project-item', {
       </div>
     </div>
 
-    <p class="f5 design-black measure">{{ description | truncate(265, '...') }}</p>
+    <p class="f5 design-black measure">{{ description | truncate(200, '...') }}</p>
     
-    <button><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
+    <button @click="playVideo(video)"><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
     <a :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
   </div>
 </div>`

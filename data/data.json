@@ -7,7 +7,8 @@
       "url": "project url",
       "author": "Dallas Alberti",
       "image": "https://github.com/Dalbed349/AlabamaWater/raw/main/preview.png",
-      "repository": "https://github.com/Dalbed349/AlabamaWater"
+      "repository": "https://github.com/Dalbed349/AlabamaWater",
+      "video": ""
     },
     {
       "title": "Nature + Nuture/Fostering Bewilderment",
@@ -16,7 +17,8 @@
       "url": "project url",
       "author": "Amina Brown",
       "image": "https://github.com/amina-brown/thesis/raw/main/preview.png",
-      "repository": "https://github.com/amina-brown/thesis"
+      "repository": "https://github.com/amina-brown/thesis",
+      "video": ""
     },
     {
       "title": "Scaling Down to Zero:",
@@ -25,7 +27,8 @@
       "url": "project url",
       "author": "Ripley Cleghorn",
       "image": "https://github.com/ripleycleghorn/thesis/raw/main/preview.png",
-      "repository": "https://github.com/ripleycleghorn/thesis"
+      "repository": "https://github.com/ripleycleghorn/thesis",
+      "video": ""
     },
     {
       "title": "Generating Book Cover Art Using Emotion Detected Labels in Classical Literature",
@@ -34,7 +37,8 @@
       "url": "project url",
       "author": "Tiffany France",
       "image": "https://github.com/tiffanyfrance/thesis/raw/main/preview.png",
-      "repository": "https://github.com/tiffanyfrance/thesis"
+      "repository": "https://github.com/tiffanyfrance/thesis",
+      "video": ""
     },
     {
       "title": "A Different Game",
@@ -43,7 +47,8 @@
       "url": "project url",
       "author": "Yujun Jiang",
       "image": "data/images/placeholder.png",
-      "repository": "https://github.com/yujunmjiang/gaming-industry-tracker"
+      "repository": "https://github.com/yujunmjiang/gaming-industry-tracker",
+      "video": ""
     },
     {
       "title": "Connected Birds",
@@ -52,7 +57,8 @@
       "url": "project url",
       "author": "Zhibang Jiang",
       "image": "https://github.com/gitacoco/thesis-project/raw/master/pics/preview.png",
-      "repository": "https://github.com/gitacoco/thesis-project"
+      "repository": "https://github.com/gitacoco/thesis-project",
+      "video": ""
     },
     {
       "title": "TL;DR",
@@ -61,7 +67,8 @@
       "url": "project url",
       "author": "Justin Kraus",
       "image": "https://github.com/justinkraus/thesis/raw/main/preview.png",
-      "repository": "https://github.com/justinkraus/thesis"
+      "repository": "https://github.com/justinkraus/thesis",
+      "video": ""
     },
     {
       "title": "Signals From the Future",
@@ -70,7 +77,8 @@
       "url": "project url",
       "author": "Lee Kuczewski",
       "image": "https://github.com/leeallennyc/thesis/raw/main/preview.png",
-      "repository": "https://github.com/leeallennyc/thesis"
+      "repository": "https://github.com/leeallennyc/thesis",
+      "video": ""
     },
     {
       "title": "Mapping the Literary Geography of Sonagi",
@@ -79,7 +87,8 @@
       "url": "project url",
       "author": "Inhye Lee",
       "image": "https://github.com/InhyeLee-Data/thesis-2021/blob/main/preview.png?raw=true",
-      "repository": "https://github.com/InhyeLee-Data/thesis-2021"
+      "repository": "https://github.com/InhyeLee-Data/thesis-2021",
+      "video": ""
     },
     {
       "title": "project title",
@@ -88,7 +97,8 @@
       "url": "project url",
       "author": "Douglas Locke",
       "image": "data/images/placeholder.png",
-      "repository": "https://github.com/douglocke/mfc"
+      "repository": "https://github.com/douglocke/mfc",
+      "video": ""
     },
     {
       "title": "Boba Generation",
@@ -97,7 +107,8 @@
       "url": "project url",
       "author": "Luella Lu",
       "image": "data/images/placeholder.png",
-      "repository": "https://github.com/tongtongluu/bubbleTea-DataVis-Thesis"
+      "repository": "https://github.com/tongtongluu/bubbleTea-DataVis-Thesis",
+      "video": ""
     },
     {
       "title": "project title",
@@ -106,7 +117,8 @@
       "url": "project url",
       "author": "David Malary",
       "image": "data/images/placeholder.png",
-      "repository": ""
+      "repository": "",
+      "video": ""
     },
     {
       "title": "86'ed: New York City's Restaurants and the Pandemic",
@@ -115,7 +127,8 @@
       "url": "project url",
       "author": "Shaheryar (Sherry) Manzar",
       "image": "https://github.com/shmanzar/thesis/raw/main/preview.png",
-      "repository": "https://github.com/shmanzar/thesis"
+      "repository": "https://github.com/shmanzar/thesis",
+      "video": ""
     },
     {
       "title": "project title",
@@ -124,7 +137,8 @@
       "url": "project url",
       "author": "Soonk Paik",
       "image": "data/images/placeholder.png",
-      "repository": "https://github.com/jotnajoa/wordup"
+      "repository": "https://github.com/jotnajoa/wordup",
+      "video": ""
     },
     {
       "title": "Lost to History",
@@ -133,7 +147,8 @@
       "url": "project url",
       "author": "Isabel Stoddart",
       "image": "data/images/placeholder.png",
-      "repository": "https://github.com/isabelstoddart/msdv-thesis"
+      "repository": "https://github.com/isabelstoddart/msdv-thesis",
+      "video": ""
     },
     {
       "title": "Karpov | Korchnoi",
@@ -142,7 +157,8 @@
       "url": "project url",
       "author": "James Troxel",
       "image": "https://github.com/jamestroxel/Karpov-Korchnoi/raw/main/preview.png",
-      "repository": "https://github.com/jamestroxel/Karpov-Korchnoi"
+      "repository": "https://github.com/jamestroxel/Karpov-Korchnoi",
+      "video": ""
     }
   ],
   "students": [

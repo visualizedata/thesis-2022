@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
     <title>Parsons MS Data Visualization | Thesis 2021</title>
 
@@ -268,7 +269,8 @@
                   url,
                   author,
                   image,
-                  repository
+                  repository,
+                  video
                 }) in projects"
 
                 :title="title"
@@ -279,6 +281,7 @@
                 :image="image"
                 :author_url="getLink(url)"
                 :repository="repository"
+                :video="video"
               ></project-item>
             </div>
           </div>
@@ -336,6 +339,11 @@
         >Top</a>
       </div>
     </div>
+
+    <video controls autoplay id="videoPlayer">
+      <source id="localSource" src=""></source>
+      <source id="videoSource" src=""></source>
+    </video>
 
     <script src="./js/vue.min.js"></script>
     <script src="./js/components/nav-bar.js"></script>
