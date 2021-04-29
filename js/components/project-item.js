@@ -1,6 +1,8 @@
 Vue.component('project-item', {
-  data: function () {
-    return {}
+  data() {
+    return {
+      readMore: `<a @click="expand">Read more<a/>`
+    }
   },
 
   props: [
@@ -14,8 +16,29 @@ Vue.component('project-item', {
     'repository',
     'video'
   ],
+  computed: {
+    truncated: function () {
+      // clamp = clamp || '...'
+      // var node = document.createElement('div')
+      // node.innerHTML = text
+      // var content = node.textContent
+      // console.log(text)
+      let len = 420
+      let trunc = ''
+      if (this.description.length > len) {
 
+        trunc = this.description.substring(0, len);
+        trunc = trunc.replace(/\w+$/, '');
+        
+        trunc += '... ' + this.readMore;
+      }
+      return trunc
+    }
+  },
   methods: {
+    expand: function() {
+      console.log('expand');
+    },
     playVideo: function (url) {
       console.log(url)
       var localDownloadPath = 'web/assets'
@@ -72,10 +95,10 @@ Vue.component('project-item', {
       </div>
     </div>
 
-    <p class="f5 design-black measure">{{ description | truncate(200, '...') }}</p>
+    <p v-html="truncated  " class="f5 design-black measure">{{ this.truncated }}</p>
     
     <button @click="playVideo(video)"><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
-    <a :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:12px;width:13px">&nbsp; GITHUB</a>
+    <button @click="window.location.href=repository" :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:13px;width:15px">&nbsp; GITHUB</button>
   </div>
 </div>`
 })

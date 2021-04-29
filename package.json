@@ -16,8 +16,6 @@
     "url": "https://github.com/visualizedata/thesis-2021/issues"
   },
   "homepage": "https://github.com/visualizedata/thesis-2021#readme",
-  "dependencies": {
-  },
   "devDependencies": {
     "browser-sync": "^2.26.7"
   }

@@ -102,18 +102,6 @@ button:hover,
 }
 
 a:hover {
-  color: #e82e21 !important;
-  transition: all 0.3s ease-in-out;
-}
-
-a,
-a:visited {
-  color: black !important;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #e82e21 !important;
   text-decoration: none !important;
   transition: all 0.3s ease-in-out;
 }

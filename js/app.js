@@ -10,6 +10,7 @@
     also, would be nice to remove jQuery and bootstrap
     as dependencies.
 */
+
 var app = new Vue({
   el: '#app',
   data: {
@@ -121,13 +122,3 @@ app.$nextTick(function () {
   document.querySelector('#loading').style.display = 'none'
   document.querySelector('#app').style.display = 'block'
 })
-
-var filter = function (text, length, clamp) {
-  clamp = clamp || '...'
-  var node = document.createElement('div')
-  node.innerHTML = text
-  var content = node.textContent
-  return content.length > length ? content.slice(0, length) + clamp : content
-}
-
-Vue.filter('truncate', filter)
