@@ -1,7 +1,7 @@
 Vue.component('project-item', {
   data() {
     return {
-      readMore: `<a @click="expand">Read more<a/>`
+      trunc: ''
     }
   },
 
@@ -16,28 +16,19 @@ Vue.component('project-item', {
     'repository',
     'video'
   ],
-  computed: {
-    truncated: function () {
-      // clamp = clamp || '...'
-      // var node = document.createElement('div')
-      // node.innerHTML = text
-      // var content = node.textContent
-      // console.log(text)
-      let len = 420
-      let trunc = ''
-      if (this.description.length > len) {
-
-        trunc = this.description.substring(0, len);
-        trunc = trunc.replace(/\w+$/, '');
-        
-        trunc += '... ' + this.readMore;
-      }
-      return trunc
-    }
-  },
   methods: {
+    shorten: function (len) {
+      if (this.description.length > len) {
+        this.trunc = this.description.substring(0, len)
+        this.trunc = this.trunc.replace(/\w+$/, '')
+        this.trunc += '... '
+      } else {
+        this.trunc = this.description
+      }
+    },
     expand: function() {
-      console.log('expand');
+      this.trunc = this.description
+
     },
     playVideo: function (url) {
       console.log(url)
@@ -64,6 +55,10 @@ Vue.component('project-item', {
         player.requestFullscreen()
       }
     }
+  },
+
+  mounted() {
+    this.shorten(500)
   },
 
   template: `<div class="bg-white db mb4 shadow-2">
@@ -95,7 +90,7 @@ Vue.component('project-item', {
       </div>
     </div>
 
-    <p v-html="truncated  " class="f5 design-black measure">{{ this.truncated }}</p>
+    <p class="f5 design-black measure">{{ this.trunc }} <button v-if="this.description.length != this.trunc.length" @click="expand">Read more<button/></p>
     
     <button @click="playVideo(video)"><i class='fa fa-play-circle' style='font-size:16px'></i>&nbsp; PLAY VIDEO</button>
     <button @click="window.location.href=repository" :href="repository"><img data-toggle='GitHub' title='Source' src="img/GitHub.png" style="margin-top:13px;width:15px">&nbsp; GITHUB</button>
