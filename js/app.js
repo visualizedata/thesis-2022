@@ -16,7 +16,7 @@ var app = new Vue({
   data: {
     site_url: 'https://parsons.nyc/thesis-2021',
     department: 'MS Data Visualization',
-    page_title: 'Thesis 2021',
+    page_title: '2021 Thesis Projects',
     projects: [],
     students: [],
     shareModalVisible: false,
