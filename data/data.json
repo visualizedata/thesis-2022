@@ -11,7 +11,7 @@
       "video": "https://github.com/leeallennyc/thesis/blob/main/demo.mp4?raw=true"
     },
     {
-      "title": "Spill the Boba tea",
+      "title": "Spill the Boba Tea",
       "subtitle": "How Asian are you? Boba is not just a drink, but a complicated symbol of Asian Culture",
       "description": "Over the past 30 years, bubble tea in America has gone from a niche Taiwanese beverage from first generation Asian immigrants to a mainstream iconic drink for Asian Americans. As beverage themself, bubble tea and boba, refer to the same tea-based beverage with toppings. However, in the context of Asian American cultural identity, the word boba has become so widely used in this community socially. It has become more than a popular connotation of the drink itself. The purpose of this study is to explore and visualize the transition from bubble tea to boba, which includes two main aspects: the reasons for the popularity of boba as a beverage in the United States, and the role of boba as a controversial noun in the discussion of Asian-ness in the Asian American community. It is hoped that through the cultural symbol created by a beverage in this era, it will trigger people to pay attention to and think about the Asian immigrant community.",
       "url": "project url",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Lost to History",
-      "subtitle": "The Matilda Effect and the repercussions of lost women in history",
+      "subtitle": "The Matilda Effect and the Repercussions of Lost Women in History",
       "description": "Many of the women that have contributed to the scientific field have been lost to history either from their male colleagues taking credit for their work or people deeming their work not important. Women such as Rosalind Franklin, Lisa Meitner, Emilie du Châtelet and many more were lost to history, their contributions to science and technology overlooked. These women were affected by the phenomenon called The Matilda Effect. The Matilda Effect is a bias against acknowledging the achievements of those women scientists whose work is attributed to their male colleagues. This thesis will explore and visualize the connection between The Matilda Effect and women in science today by answering questions such as who the women effected by The Matilda Effect are, what the lasting effects on the world today are, and how female role models can increase the number of girls entering into STEM fields.",
       "url": "project url",
       "author": "Isabel Stoddart",
@@ -52,7 +52,7 @@
     },
     {
       "title": "20 Years of Water",
-      "subtitle": "Visualizing water quality testing in the River Basins of Alabama",
+      "subtitle": "Visualizing Water Quality Testing in the River Basins of Alabama",
       "description": "Alabama’s climate and geographic history makes it one of the most ecologically diverse states in the United States. At the same time, a history of industrial accidents and abuse has led to disasters that have harmed everything from ponds to populations of cities to coastlines. Since 1998 stricter water monitoring policies have been mandated in an attempt to control the human and environmental harm caused by pollutants. This project seeks to analyze the progress that has been made during the past 20 years of water quality testing. Data from the Alabama Department of Environmental Management (ADEM) is used to visualize the scope of water contamination in each river basin by size, cause, and source.",
       "url": "project url",
       "author": "Dallas Alberti",
@@ -62,7 +62,7 @@
     },
     {
       "title": "Nature + Nurture",
-      "subtitle": "An exploration of Forest Kindergartens and nature-based learning",
+      "subtitle": "An Exploration of Forest Kindergartens and Nature-based Learning",
       "description": "Outdoor education is not a new concept. It’s been used around the world in various forms for decades and has been increasingly popular in the United States in the form of Forest Kindergartens. Forest Kindergarten is a pedagogy rooted in the idea of free-flow learning, nature immersion, and child-led curriculums. Since the introduction of these programs in the United States, those involved have praised the educational, developmental, and physical benefits, with many academic sources conducting research to back them up. Even still, those just learning about the concept have a variety of questions about its efficacy, many that seem to be driven by a sense of bewilderment that a program so different from the traditional structure could possibly lend the same results. This project aims to show how these programs operate in relation to the traditional kindergarten system and how the current public education structure can begin to think about adopting and benefiting from the concepts applied in the nature-based programs. The project itself is broken down into four sections: Origins, Structure, Outcomes, and Implementation. The end goal is to provide a collection of information about nature-based kindergarten programs to enable audiences in urban, rural, wealthy, and struggling areas to equally learn and benefit from educational developments happening around the country and the world.",
       "url": "project url",
       "author": "Amina Brown",
@@ -72,7 +72,7 @@
     },
     {
       "title": "Connected Birds",
-      "subtitle": "A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy",
+      "subtitle": "A Framework for Museums to Expand the Stories of Displayed Specimens",
       "description": "Current specimens being displayed at museums are attempts and efforts of mankind's wisdom in creating traces of their presence, representing their appearance, and preserving the disappearance of species, but there are user-experience gaps between the stories museums provide and what people further desire, between the digital interface and the physical settings, and between the developed areas and the developing ones. This project creates a low-cost data-driven framework that takes full advantage of the scalability of digital media and perceivability of real-world objects to reactivate exhibits and enhance in-person engagement in museums. With the future goal of being compatible with datasets of other species, providing API for further in-depth development, this project will first focus on avian species in the National Wetland Museum of China to display specimens through a digital-physical fusion strategy.",
       "url": "project url",
       "author": "Zhibang Jiang",
@@ -91,8 +91,8 @@
       "video": "https://github.com/madhat5/MSDV_2021-Thesis/blob/main/demo.mp4?raw=true"
     },
     {
-      "title": "Word up",
-      "subtitle": "How many words do you need for hip hop songs? \nQuantitative Analysis on Hip Hop Lyrics",
+      "title": "Word up: How many words do you need for hip hop songs?",
+      "subtitle": "A Quantitative Analysis of Hip Hop Lyrics",
       "description": "This project specifically focuses on two linguistic characteristics in songs. The first is how unique words are used in each song. This shows how diversely words are adapted to convey meaning. More unique words used in a song create more diversity and more complexity. The approach to measure the level of diversity in vocabulary is achieved by counting the unique instances of words: for example, if a certain word appears more than twice in a song, only the first instance is counted, leaving the duplicates out of the word pool.\n\nThe second is how broad the listeners’ vocabulary would have to be. This focuses on how various subjects such as gender fluidity and homosexuality, are dealt with in songs as well as how different topics are interpreted in each song. Today, these new topics require new vocabulary because in the past, they did not exist in the general public sphere. In addition to the quantitative analysis of absolute word count that will be presented in this paper, proportion analysis will also be included : how much percentile is covered by having certain coverage or word. For example, by covering the top 10% of used vocabulary, we can estimate how much percentage of vocabulary is covered in a certain decade.\n\nTo analyze trends over time, this project covers hip hop songs from the first advent of it (1980) to the songs of today(up to 2020). The user is able to compare the changes by navigating dispersion patterns visually by decade and also to see what is the general pattern of vocabulary by seeing the generative art form of word dispersion.\n\n Since this project shows an aspect of pop culture linguistically, the vinyl player interface is adopted as a visual inspiration. The user can explore the processed information as if one plays with an analog music player.",
       "url": "project url",
       "author": "Seungyu Paik",
@@ -112,7 +112,7 @@
     },
     {
       "title": "A Different Game",
-      "subtitle": "How COVID-19 has changed the video game industry",
+      "subtitle": "How COVID-19 has Changed the Video Game Industry",
       "description": "The video game industry has undergone a series of changes as a result of the Covid-19 pandemic. Stress on the supply chains of hardware and software have forced companies to adjust to new working environments within short periods of time. At the same time, people have turned more and more towards games as a form of leisure, entertainment, and human connection. We analyze several economic and human studies data sets collected during the past 2 years in order to visualize the supply, demand, and popularity of games during the pandemic. Our results suggest that despite turbulence in the supply chain, game companies have managed to adequately shift their business models to allow for tremendous growth as other industries have struggled. /nIn this project, the visualizations present how regular production process, total consumer spending, user behavior and gaming community network were impacted by the Covid-19 pandemic. As we expected, the video game industry has demonstrated with data that it is unshakable in people's minds and will go farther in the future.",
       "url": "project url",
       "author": "Yujun Jiang",
@@ -132,7 +132,7 @@
     },
     {
       "title": "Mapping the Literary Geography of Sonagi",
-      "subtitle": "Picturing a Fictional Space: A spatial and data-based way to explore the text of literature",
+      "subtitle": "Picturing a Fictional Space: A Spatial and Data-based Approach to Explore the Literary Text",
       "description": "Sonagi is a Korean word that means “rain shower”. It is also the title of a short story by the author Hwang Sun Won, one of the most accomplished writers of short fiction in modern Korea literature. The story which has a simple plot of “a boy in the countryside meets a girl from the city” is one of the most well-known short stories of Hwang and has also become an inspiration for animation, film, stage musicals and so on. Through these retold interpretations of Sonagi, the idyllic and natural setting that two young protagonists explore on foot has been visually recreated. This thesis project aims to identify the literary geography of Sonagi and construct a literary map of the story inthe standpoint of data collection and visualization. By doing so, this project provides a spatial and data-based way to explore the text of Sonagi, which may not be obvious when reading text only. Through this endeavor, the project poses and answers a few questions as well: How do readers picture a fictional space when reading literature?; Does uncertainty in text allow room for creative interpretation for the audience?; What role can visualization play in understanding literature? From the original text which is accompanied by English translation, expressions that indicate locations of action, locations recognized by the characters, or locations referred to in the story are collected and used to visualize the map of the fictional space in the story. Some examples of such can be Creek, Stepping Stones, Buckwheat Fields and Mountain.",
       "url": "project url",
       "author": "Inhye Lee",
@@ -142,7 +142,7 @@
     },
     {
       "title": "TL;DR",
-      "subtitle": "Written English is becoming more readable, why is reading comprehension falling?",
+      "subtitle": "Written English is Becoming More Readable, Why is Reading Comprehension Falling?",
       "description": "Written English is becoming more readable. If written English as a whole is becoming more readable, why is there an increasing issue with reading comprehension? The author of this paper explores trends in written English and how new digital mediums have changed the way people read. These changes have consequences on reading comprehension that can be counteracted with practices that favor focused reading.",
       "url": "project url",
       "author": "Justin Kraus",
