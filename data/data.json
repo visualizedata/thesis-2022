@@ -124,7 +124,7 @@
       "title": "My Fellow Citizens",
       "subtitle": "A Visual Exploration of the United States Presidential Inaugural Addresses (1789-2021)",
       "description": "The United States Presidential inaugural speeches serve to form a qualitative and historical basis for applying data visualization techniques. This data visualization serves to illuminate historical context, further evaluate the texts, and aid in their appreciation. Visualization techniques employed are designed to aid in topical exploration & allow user agency to enable new discovery of insights..",
-      "url": "project url",
+      "url": "https://douglocke.github.io/myfellowcitizens/",
       "author": "Douglas Locke",
       "image": "https://github.com/douglocke/mfc/raw/master/preview.png",
       "repository": "https://github.com/douglocke/mfc",
