@@ -38,6 +38,7 @@ Vue.component('project-item', {
       var localSource = document.getElementById('localSource')
 
       player.pause()
+      player.muted = true
 
       videoSource.src = url
 
