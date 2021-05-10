@@ -38,7 +38,7 @@ Vue.component('project-item', {
       var localSource = document.getElementById('localSource')
 
       player.pause()
-      player.muted = true
+      // player.muted = true // mute audio for reviews
 
       videoSource.src = url
 
