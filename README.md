@@ -3,7 +3,6 @@
 
 ### Featuring thesis work by:
 
-- Angelica Hom
 - Baihan Lin
 - Kasey Zhuravlev
 - Molly Cook
