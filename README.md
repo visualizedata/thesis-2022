@@ -1,24 +1,23 @@
 # [MS Data Visualization](http://www.newschool.edu/parsons/ms-data-visualization/)
-## 2021 Thesis Projects
+## 2022 Thesis Projects
 
 ### Featuring thesis work by:
 
-- Dallas Alberti
-- Amina Brown
-- Ripley Cleghorn
-- Tiffany France
-- Yujun Jiang
-- Zhibang Jiang
-- Justin Kraus
-- Lee Kuczewski
-- Inhye Lee
-- Douglas Locke
-- Luella Lu
-- David Malary
-- Shaheryar Manzar
-- Seungyu Paik
-- Isabel Stoddart
-- James Troxel
+- Angelica Hom
+- Baihan Lin
+- Kasey Zhuravlev
+- Olanrewaju Odunowo
+- Molly Cook
+- Omar Nema
+- Yoana Kosturska
+- Zora Wan
+- Jessie Han
+- Jeremy Odell
+- Yann Kerblat
+- Wenqin Lu
+- Gisli Gudjonsson
+- Shea Molloy
+- Juliet Craig
 
 ## [Parsons School of Design](http://www.newschool.edu/parsons/)
 ## [The New School](http://www.newschool.edu)
