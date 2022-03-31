@@ -4,17 +4,17 @@
 ### Featuring thesis work by:
 
 - Baihan Lin
+- Gisli Gudjonsson
+- Jeremy Odell
+- Jessie Han
+- Juliet Craig
 - Kasey Zhuravlev
 - Molly Cook
 - Omar Nema
-- Yoana Kosturska
-- Jessie Han
-- Jeremy Odell
-- Yann Kerblat
-- Wenqin Lu
-- Gisli Gudjonsson
 - Shea Molloy
-- Juliet Craig
+- Wenqin Lu
+- Yann Kerblat
+- Yoana Kosturska
 
 ## [Parsons School of Design](http://www.newschool.edu/parsons/)
 ## [The New School](http://www.newschool.edu)
