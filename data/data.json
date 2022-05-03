@@ -54,11 +54,11 @@
       "title": "Is Food Making You Sick?",
       "subtitle": "Exploring the Relationship Between Nutrition and Health",
       "description":"Today, diseases related to nutrition have been increasing steeply, overburdening the healthcare system with a devastating human toll. As the COVID-19 pandemic has shown, conditions such as ischaemic heart disease, diabetes, cancer, and other non-infectious diseases, are not only causing the death of millions of people around the world each year, but are also risk factors, increasing the severity of other diseases.  Although we are not able to affect all of our risk factors, we can still improve our overall health through nutrition.\nIs Food Making You Sick? Exploring the Relationship Between Nutrition and Health is studying the relationship between diet and health in 184 countries through the analysis and visualization of extensive data on nutritional factors and diseases. It aims to study and visualize these relationships by juxtaposing the various nutrition and health metrics, allowing users to explore and analyze them. \nThe project Is Food Making You Sick? Exploring the Relationship Between Nutrition and Health will answer questions such as do countries that have a high fat diet, also struggle with heart disease? Do countries consuming high amounts of sugar are overburdened with diabetes and vice versa? Empowered with this information by exploring the patterns between food consumption and health outcomes, users could better inform their dietary choices. Exposing the data visually could also spark discussion amongst researchers about less researched correlations, setting the stage for testing hypotheses and performing studies.",
-      "url": "",
+      "url": "https://ykmsdv.github.io/thesis/",
       "author": "Yoana Kosturska",
-      "image": " ",
+      "image": "https://ykmsdv.github.io/thesis/preview.png",
       "repository": "https://github.com/ykmsdv/thesis",
-      "video": " "
+      "video": "https://ykmsdv.github.io/thesis/demo.mp4"
     },
     {
       "title": "Brain Experience.",
