@@ -79,7 +79,7 @@ Vue.component('project-item', {
           :href="author_url"
           class="dib dim design-black mb2 f5 link"
           >{{ author }}</a>
-        <h1 class="f4 mt0 mb0">{{ title }}</h1>
+        <h1 class="title" class="f4 mt0 mb0">{{ title }}</h1>
         <p class="f4 design-black mt3 mb0">{{ subtitle }}</h1>
       </div>
 

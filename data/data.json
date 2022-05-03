@@ -1,41 +1,11 @@
 {
   "projects": [
     {
-      "title": " ",
+      "title": "In Crisis, Again: Understanding the Endurance of Opioids & Combatting the Modern Epidemic",
       "subtitle": " ",
-      "description":" ",
+      "description":"Onset by overprescribing and mismarketing, the modern opioid crisis that has commanded public attention for the past three decades has taken more than 800,000 lives since 1999 and has only worsened in the strain of recent years. (CDC) Notwithstanding, the modern crisis bears a lot of similarities to the nation’s first opioid epidemic seen in the late 18th and early 19th centuries. Communities faced what would be the first national opioid epidemic a century before the infamous mismarketing of OxyContin and impact of widespread opioid abuse dominating news outlets today. The emergence, exploitation, and eruption of both epidemics follow the same arcs in history, yet the de-escalation of the earlier epidemic has faded into distant memory and recovery from the most recent has yet to be seen.\nThe lingering stigma of opioid abuse manufactured by pharmaceutical companies and federal regulations in the early 19th century has endured and still creates an isolating environment for those in need today, leaving them with economic, cultural, and geographical barriers to recovery. Learning from the earlier epidemic, understanding the physiology of addiction and why we are repeating mistakes from the past, and making proven treatments such as MAT, or Medication-Assisted Treatment, widely available can help to alleviate future escalation of the modern opioid crisis. Accessible recovery in conjunction with the de-stigmatization of that which was left unamended by the earlier epidemic is what is needed to prevent future devastation and build a system that can prevent history from repeating itself once again.\n",
       "url": " ",
-      "author": "BaiHan Lin",
-      "image": " ",
-      "repository": " ",
-      "video": " "
-    },
-    {
-      "title": "The Global Theatrics of a Global Meltdown",
-      "subtitle": " ",
-      "description":"All around the world, countries are witnessing the different effects of climate change. The island nation of Tuvalu, which is home to around 11,000 people, has witnessed sea levels rise by about 0.5 centimeters every year since 1993. The Maldives, a well-known bucket list getaway, is the lowest-lying nation in the world. Therefore, sea-level rise caused by global climate change is an existential threat to the island nation. Finally, Iceland, a cold island nation in the Atlantic ocean actually has the opposite problem. Land in Iceland is rising at a pace of as much as 1.4 inches per year in certain areas as a result of climate change, according to a new study. Like the rest of the world, these countries have much to gain from stopping climate change. A main combatant in the fight is ESG focused investing and decision making, which has increased emphasis and interest, both from investors and the public, in sustainable and responsible investments. This study attempts to answer questions about the current state of ESG friendly strategy worldwide, and how it is affecting the global meltdown. The study therefore aims to inform the reader as to how their country’s government and businesses are actually combating climate change. \nThe results of the study show that ESG investing and governmental action is increasing worldwide. One of the main focus points of combating climate change is through ESG investing and decision making. These investments have been gaining momentum recently. In 2021, a record $649 billion poured into ESG-focused funds worldwide, up from the $542 billion and $285 billion in 2020 and 2019, respectively. But despite that, governments worldwide spend at least $1.8 trillion each year—equal to 2% of global GDP—on subsidies that are accelerating the destruction of our natural world.",
-      "url": " ",
-      "author": "Gisli Gudjonsson",
-      "image":" ",
-      "repository": " ",
-      "video": " "
-    },
-    {
-      "title": " ",
-      "subtitle": " ",
-      "description":"New York City is by many measures the most culturally diverse city as well as one of the most socioeconomically diverse cities in America. Additionally, New York City has by far the largest population, and the most comprehensive intercity transit system of any American city. These factors put together have created the conditions for a diverse and interesting population of subway riders in NYC. Many people recognize and appreciate this fact, as there are several extremely popular social media accounts that capture the quirks, beautiful moments, and many inadequacies of the city's subway system (subwayhands, peopleofpennstation, and subwaycreatures to name a few of them).\nWhile these social media accounts provide a highly subjective and qualitative view of the demographics of the subway system, there have not been many efforts to quantify and visualize these demographics. This is important because these demographics, quirks, and inadequacies of the subway system have their roots in many different factors, including city politics, systemic inequality, and the hyper-capitalistic structure of the city itself. Additionally, the demographics of the subway can morph slowly or change almost instantly, as was the case when NYC became the country’s first major hotspot for COVID-19. Similar, but smaller changes can also occur, such as Eric Adams’ ongoing effort to remove homeless people from the subway.\n\nThis visualization seeks to present a humanistic perspective of the diversity of the city, from the inside of a subway car. The inside of a subway car itself is a visual representation of how many people are riding the subway at the current time as well as what kinds of people. This visualization shows how the demographics of subway ridership has changed both gradually and dramatically over time. The visualization takes into account actual subway ridership data, neighborhood demographic data, as well as public health and political events to provide a holistic representation of the city’s demographics over time.\n",
-      "url": " ",
-      "author": "Jeremy Odell",
-      "image": " ",
-      "repository": " ",
-      "video": " "
-    },
-    {
-      "title": "Memories around the corner",
-      "subtitle": "Mapping NYC honorary street names",
-      "description":"NYC honorary street names, or co-names enacted by the City Council, can be found above or below the primary street-name signs throughout the five boroughs of NYC. Over the 30 years enactment of this practice documented officially, communities, local activists, and politicians have petitioned {number} of honorary street names, to honor people or organizations of special significance to a particular community or neighborhood. Simultaneously, co-names can be seen as an approach to remap the city in a local sense, interweaving its past, present, and future. However, for considerations of legal and bureaucratic costs, honorary street names have never been accessible to the public either through an analog city map or a digital database.\nHow are communities in NYC preserving their heritage through commemorative street naming? And How have co-names entangled with the cultural/political atmosphere? This project surveys the NYC honorary street names, by applying both quantitative and qualitative analysis and data visualization. The source data are collected and parsed from the City Council’s legislation files, and further aggregated with GIS information and text analysis. As a result, this project transforms the practice of honorary street names into a more accessible format and creates a generated city landscape of memory.\n",
-      "url": " ",
-      "author": "Jessie Han",
+      "author": "Molly Cook",
       "image": " ",
       "repository": " ",
       "video": " "
@@ -51,42 +21,22 @@
       "video": " "
     },
     {
-      "title": "In Crisis, Again: Understanding the Endurance of Opioids & Combatting the Modern Epidemic",
-      "subtitle": " ",
-      "description":"Onset by overprescribing and mismarketing, the modern opioid crisis that has commanded public attention for the past three decades has taken more than 800,000 lives since 1999 and has only worsened in the strain of recent years. (CDC) Notwithstanding, the modern crisis bears a lot of similarities to the nation’s first opioid epidemic seen in the late 18th and early 19th centuries. Communities faced what would be the first national opioid epidemic a century before the infamous mismarketing of OxyContin and impact of widespread opioid abuse dominating news outlets today. The emergence, exploitation, and eruption of both epidemics follow the same arcs in history, yet the de-escalation of the earlier epidemic has faded into distant memory and recovery from the most recent has yet to be seen.\nThe lingering stigma of opioid abuse manufactured by pharmaceutical companies and federal regulations in the early 19th century has endured and still creates an isolating environment for those in need today, leaving them with economic, cultural, and geographical barriers to recovery. Learning from the earlier epidemic, understanding the physiology of addiction and why we are repeating mistakes from the past, and making proven treatments such as MAT, or Medication-Assisted Treatment, widely available can help to alleviate future escalation of the modern opioid crisis. Accessible recovery in conjunction with the de-stigmatization of that which was left unamended by the earlier epidemic is what is needed to prevent future devastation and build a system that can prevent history from repeating itself once again.\n",
+      "title": "Memories around the corner",
+      "subtitle": "Mapping NYC honorary street names",
+      "description":"NYC honorary street names, or co-names enacted by the City Council, can be found above or below the primary street-name signs throughout the five boroughs of NYC. Over the 30 years enactment of this practice documented officially, communities, local activists, and politicians have petitioned {number} of honorary street names, to honor people or organizations of special significance to a particular community or neighborhood. Simultaneously, co-names can be seen as an approach to remap the city in a local sense, interweaving its past, present, and future. However, for considerations of legal and bureaucratic costs, honorary street names have never been accessible to the public either through an analog city map or a digital database.\nHow are communities in NYC preserving their heritage through commemorative street naming? And How have co-names entangled with the cultural/political atmosphere? This project surveys the NYC honorary street names, by applying both quantitative and qualitative analysis and data visualization. The source data are collected and parsed from the City Council’s legislation files, and further aggregated with GIS information and text analysis. As a result, this project transforms the practice of honorary street names into a more accessible format and creates a generated city landscape of memory.\n",
       "url": " ",
-      "author": "Molly Cook",
+      "author": "Jessie Han",
       "image": " ",
       "repository": " ",
       "video": " "
     },
     {
-      "title": " ",
+      "title": "The Global Theatrics of a Global Meltdown",
       "subtitle": " ",
-      "description":" ",
+      "description":"All around the world, countries are witnessing the different effects of climate change. The island nation of Tuvalu, which is home to around 11,000 people, has witnessed sea levels rise by about 0.5 centimeters every year since 1993. The Maldives, a well-known bucket list getaway, is the lowest-lying nation in the world. Therefore, sea-level rise caused by global climate change is an existential threat to the island nation. Finally, Iceland, a cold island nation in the Atlantic ocean actually has the opposite problem. Land in Iceland is rising at a pace of as much as 1.4 inches per year in certain areas as a result of climate change, according to a new study. Like the rest of the world, these countries have much to gain from stopping climate change. A main combatant in the fight is ESG focused investing and decision making, which has increased emphasis and interest, both from investors and the public, in sustainable and responsible investments. This study attempts to answer questions about the current state of ESG friendly strategy worldwide, and how it is affecting the global meltdown. The study therefore aims to inform the reader as to how their country’s government and businesses are actually combating climate change. \nThe results of the study show that ESG investing and governmental action is increasing worldwide. One of the main focus points of combating climate change is through ESG investing and decision making. These investments have been gaining momentum recently. In 2021, a record $649 billion poured into ESG-focused funds worldwide, up from the $542 billion and $285 billion in 2020 and 2019, respectively. But despite that, governments worldwide spend at least $1.8 trillion each year—equal to 2% of global GDP—on subsidies that are accelerating the destruction of our natural world.",
       "url": " ",
-      "author": "Omar Nema",
-      "image": " ",
-      "repository": " ",
-      "video": " "
-    },
-    {
-      "title": "From the ground up",
-      "subtitle": "Exploring edible and medicinal plant data for sustainable systems",
-      "description":"From the Ground Up explores the current landscape of plant data presently available to potential growers with the aim of fostering participation, curiosity, and confidence in applying plant data. The project explores data aggregated from Plants for a Future, USDA, and National Gardening Association to invite users to identify plant cultivation needs and practical uses that fit their needs. The visualizations focus on representing use cases most relevant to urban farming in New York City, prioritizing data for plants that grow successfully in temperate climate zones. Users can filter data for more than 7,000 plants based on plant needs, plant tolerances, and aggregated consumable uses. The visualizations further connect to other online resources and provide information to enable users’ self-education and encourage in-person connection and continued participation in sustainable food growing practices in their communities and at home. From the Ground Up aims to make plant research more exciting and accessible to larger communities and to implement modern data practices within collective horticultural knowledge.",
-      "url": " ",
-      "author": "Shea Molloy",
-      "image": " ",
-      "repository": " ",
-      "video": " "
-    },
-    {
-      "title": "What is blind box, and why did it go viral?",
-      "subtitle": " ",
-      "description":"With the increasing wealth of Generation Z and the rapid diversification of entertainment, the blind box industry has made a big splash in the financial market. A blind box is a package with mystery contents that customers purchase from a particular brand. Under the leadership of some blind box companies and social media accounts, blind boxes have achieved huge market success in China in recent years. When toys become the hobby of \"adults\", they bring cultural and business opportunities and challenges that should not be underestimated. Blind boxes, it may be inferred, have met customers' psychology of curiosity, pursuit of beauty, nostalgic mood, and need for companionship.\n\nWhat is blind box, and why did it go viral? presents the history of how the blind box market developed since it was introduced to China and explores the psychological reasons why people are so addicted to it. This data visualization project focuses on how the blind box market became popular, the huge potential behind it, and why people are so addicted to blind boxes, as well as the psychological research behind it. Viewers of this project can get to know the famous IPs, the comparison with art toys, and filter out the economic growth and potential financial market year by year with both text narration and visual presentations.",
-      "url": " ",
-      "author": "Wenqin Lu",
-      "image": " ",
+      "author": "Gisli Gudjonsson",
+      "image":" ",
       "repository": " ",
       "video": " "
     },
@@ -109,48 +59,84 @@
       "image": " ",
       "repository": " ",
       "video": " "
+    },
+    {
+      "title": " ",
+      "subtitle": " ",
+      "description":" ",
+      "url": " ",
+      "author": "BaiHan Lin",
+      "image": " ",
+      "repository": " ",
+      "video": " "
+    },
+    {
+      "title": "What is blind box, and why did it go viral?",
+      "subtitle": " ",
+      "description":"With the increasing wealth of Generation Z and the rapid diversification of entertainment, the blind box industry has made a big splash in the financial market. A blind box is a package with mystery contents that customers purchase from a particular brand. Under the leadership of some blind box companies and social media accounts, blind boxes have achieved huge market success in China in recent years. When toys become the hobby of \"adults\", they bring cultural and business opportunities and challenges that should not be underestimated. Blind boxes, it may be inferred, have met customers' psychology of curiosity, pursuit of beauty, nostalgic mood, and need for companionship.\n\nWhat is blind box, and why did it go viral? presents the history of how the blind box market developed since it was introduced to China and explores the psychological reasons why people are so addicted to it. This data visualization project focuses on how the blind box market became popular, the huge potential behind it, and why people are so addicted to blind boxes, as well as the psychological research behind it. Viewers of this project can get to know the famous IPs, the comparison with art toys, and filter out the economic growth and potential financial market year by year with both text narration and visual presentations.",
+      "url": " ",
+      "author": "Wenqin Lu",
+      "image": " ",
+      "repository": " ",
+      "video": " "
+    },
+    {
+      "title": "From the ground up",
+      "subtitle": "Exploring edible and medicinal plant data for sustainable systems",
+      "description":"From the Ground Up explores the current landscape of plant data presently available to potential growers with the aim of fostering participation, curiosity, and confidence in applying plant data. The project explores data aggregated from Plants for a Future, USDA, and National Gardening Association to invite users to identify plant cultivation needs and practical uses that fit their needs. The visualizations focus on representing use cases most relevant to urban farming in New York City, prioritizing data for plants that grow successfully in temperate climate zones. Users can filter data for more than 7,000 plants based on plant needs, plant tolerances, and aggregated consumable uses. The visualizations further connect to other online resources and provide information to enable users’ self-education and encourage in-person connection and continued participation in sustainable food growing practices in their communities and at home. From the Ground Up aims to make plant research more exciting and accessible to larger communities and to implement modern data practices within collective horticultural knowledge.",
+      "url": " ",
+      "author": "Shea Molloy",
+      "image": " ",
+      "repository": " ",
+      "video": " "
+    },
+    {
+      "title": " ",
+      "subtitle": " ",
+      "description":" ",
+      "url": " ",
+      "author": "Omar Nema",
+      "image": " ",
+      "repository": " ",
+      "video": " "
+    },
+    {
+      "title": " ",
+      "subtitle": " ",
+      "description":"New York City is by many measures the most culturally diverse city as well as one of the most socioeconomically diverse cities in America. Additionally, New York City has by far the largest population, and the most comprehensive intercity transit system of any American city. These factors put together have created the conditions for a diverse and interesting population of subway riders in NYC. Many people recognize and appreciate this fact, as there are several extremely popular social media accounts that capture the quirks, beautiful moments, and many inadequacies of the city's subway system (subwayhands, peopleofpennstation, and subwaycreatures to name a few of them).\nWhile these social media accounts provide a highly subjective and qualitative view of the demographics of the subway system, there have not been many efforts to quantify and visualize these demographics. This is important because these demographics, quirks, and inadequacies of the subway system have their roots in many different factors, including city politics, systemic inequality, and the hyper-capitalistic structure of the city itself. Additionally, the demographics of the subway can morph slowly or change almost instantly, as was the case when NYC became the country’s first major hotspot for COVID-19. Similar, but smaller changes can also occur, such as Eric Adams’ ongoing effort to remove homeless people from the subway.\n\nThis visualization seeks to present a humanistic perspective of the diversity of the city, from the inside of a subway car. The inside of a subway car itself is a visual representation of how many people are riding the subway at the current time as well as what kinds of people. This visualization shows how the demographics of subway ridership has changed both gradually and dramatically over time. The visualization takes into account actual subway ridership data, neighborhood demographic data, as well as public health and political events to provide a holistic representation of the city’s demographics over time.\n",
+      "url": " ",
+      "author": "Jeremy Odell",
+      "image": " ",
+      "repository": " ",
+      "video": " "
+    },
+    {
+      "title": " ",
+      "subtitle": " ",
+      "description":"",
+      "url": " ",
+      "author": "Kasey Zhuravlev",
+      "image": " ",
+      "repository": " ",
+      "video": " "
     }
   ],
   "students": [
     {
-      "name": "Baihan Lin",
-      "url": " "
-    },
-    {
-      "name": "Gisli Gudjonsson",
-      "url": "https://github.com/gisligudjons/thesis"
-    },
-    {
-      "name": "Jeremy Odell",
-      "url": "https://github.com/jeremy0dell/major-studio-2"
-    },
-    {
-      "name": "Jessie Han",
-      "url": "https://github.com/JessieJessJe/thesis"
-    },
-    {
       "name": "Juliet Craig",
       "url": "https://github.com/jcraig13/thesis"
-    },
-    {
-      "name": "Kasey Zhuravlev",
-      "url": "https://zhibang.design"
     },
     {
       "name": "Molly Cook",
       "url": "https://github.com/m0llyc00k/Thesis-2022"
     },
     {
-      "name": "Omar Nema",
-      "url": " "
+      "name": "Gisli Gudjonsson",
+      "url": "https://github.com/gisligudjons/thesis"
     },
     {
-      "name": "Shea Molloy",
-      "url": "https://github.com/papermashea/thesis"
-    },
-    {
-      "name": "Wenqin Lu",
-      "url": "https://github.com/kanodesu/Thesis"
+      "name": "Jessie Han",
+      "url": "https://github.com/JessieJessJe/thesis"
     },
     {
       "name": "Yann Kerblat",
@@ -159,6 +145,30 @@
     {
       "name": "Yoana Kosturska",
       "url": "https://github.com/ykmsdv/thesis"
+    },
+    {
+      "name": "Baihan Lin",
+      "url": " "
+    },
+    {
+      "name": "Wenqin Lu",
+      "url": "https://github.com/kanodesu/Thesis"
+    },
+    {
+      "name": "Shea Molloy",
+      "url": "https://github.com/papermashea/thesis"
+    },
+    {
+      "name": "Omar Nema",
+      "url": " "
+    },
+    {
+      "name": "Jeremy Odell",
+      "url": "https://github.com/jeremy0dell/major-studio-2"
+    },
+    {
+      "name": "Kasey Zhuravlev",
+      "url": "https://zhibang.design"
     }
   ]
 }

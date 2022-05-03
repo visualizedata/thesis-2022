@@ -76,7 +76,9 @@ body {
 }
 
 ul.list.padding li {
-  padding-bottom: 0.6rem;
+  padding-bottom: 8px;
+  line-height: 1em;
+
 }
 
 ul.toggle li a.active {
@@ -109,4 +111,7 @@ a:hover {
 #videoPlayer {
   width: 0;
   height: 0;
+}
+h1.title{
+  font-style: italic !important;
 }
