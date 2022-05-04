@@ -25,7 +25,7 @@
       "subtitle": "Understanding the Patterns of NYC Honorary Street Naming History",
       "description":"NYC honorary street names, or co-names enacted by the City Council, can be found above or below the primary street-name signs throughout the five boroughs of NYC. Over the 30 years enactment of this practice documented officially, communities, local activists, and politicians have petitioned {number} of honorary street names, to honor people or organizations of special significance to a particular community or neighborhood. Simultaneously, co-names can be seen as an approach to remap the city in a local sense, interweaving its past, present, and future. However, for considerations of legal and bureaucratic costs, honorary street names have never been accessible to the public either through an analog city map or a digital database.\nHow are communities in NYC preserving their heritage through commemorative street naming? And How have co-names entangled with the cultural/political atmosphere? This project surveys the NYC honorary street names, by applying both quantitative and qualitative analysis and data visualization. The source data are collected and parsed from the City Council’s legislation files, and further aggregated with GIS information and text analysis. As a result, this project transforms the practice of honorary street names into a more accessible format and creates a generated city landscape of memory.\n",
       "url": "https://jessiejessje.github.io/nyc-conaming/",
-      "author": "Jessie Han",
+      "author": "Jiahui(Jessie) Han",
       "image": "https://jessiejessje.github.io/thesis/preview.png",
       "repository": "https://github.com/JessieJessJe/thesis",
       "video": "https://jessiejessje.github.io/thesis/demo.mp4"
@@ -135,7 +135,7 @@
       "url": "https://github.com/gisligudjons/thesis"
     },
     {
-      "name": "Jessie Han",
+      "name": "Jiahui(Jessie) Han",
       "url": "https://github.com/JessieJessJe/thesis"
     },
     {
