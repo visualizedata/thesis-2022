@@ -112,9 +112,11 @@ a:hover {
   width: 0;
   height: 0;
 }
-h1.title{
+/* h1.title{
   font-style: italic !important;
-}
+} */
 .f4{
   font-style:italic;
 }
+
+/* a:hover, a:visited CSS links color: black */
