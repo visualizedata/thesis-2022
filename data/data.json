@@ -114,11 +114,11 @@
       "title": "Fashion and its History",
       "subtitle": "Does it Repeat Itself?",
       "description":"Fashion and its History: Does it Repeat Itself? is a visualization that illustrates the popularity of different fashion styles and seeks to identify patterns in trend history. Information exchange in the contemporary world is constant and new fashion trends or patterns emerge and are influenced by a variety of sources. Fashion change over time cannot be explained by a particular theory, catalyst or cycle. Forecasting future trends is a complex process as drivers of change in fashion culture are vast and patterns in the fashion cycle are difficult to discern. This data visualization explores the popularity of past trends and aims to identify a pattern in a subset of styles that have been recycled throughout the years. Data from the archives of Vogue, a globally celebrated and recognized fashion magazine, is collected over roughly 140 years for a subset of 20 iconic styles. The data visualization synthesizes the number of times a particular style appears in a Vogue magazine edit during a decade and illustrates the popularity of a style during that time period. Research of fashion history and theory as well as social, cultural and technological factors throughout this thesis builds on the visualization’s trend analysis with the hope of better understanding what drives changes in fashion culture. Research and visual analysis of trend patterns for this thesis is conducted with the goal of helping users better understand the fashion landscape and identify indicators that may be useful in the prediction of future fashion trends or recycled styles.",
-      "url": "",
+      "url": "https://zhurk746.github.io/MAJOR_STUDIO_2/",
       "author": "Kasey Zhuravlev",
-      "image": " ",
+      "image": "https://github.com/zhurk746/MAJOR_STUDIO_2/raw/main/preview.png",
       "repository": "https://github.com/zhurk746/MAJOR_STUDIO_2/tree/main/fashion-project",
-      "video": " "
+      "video": "https://github.com/zhurk746/MAJOR_STUDIO_2/blob/main/demo.mp4?raw=true"
     }
   ],
   "students": [
