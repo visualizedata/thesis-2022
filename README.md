@@ -3,8 +3,6 @@
 
 ### Featuring thesis work by:
 
-
-
 - Molly Cook
 - Juliet Craig
 - Gísli Gudjónsson
